@@ -1,3 +1,4 @@
-# golb (golang - load balancer)
+# golb
+> a load blancer written in go
 
 ![](golb.png)
